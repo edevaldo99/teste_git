@@ -1,0 +1,13 @@
+*{margin: 0; padding: 0}
+
+body{background: #444;}
+
+#wrap{
+  width: 1000px;
+  margin: 0 auto;
+  background: #fff;
+  overflow: auto;
+}
+
+h1{font: 32px Arial; padding: 10px 15px;}
+p{font: 12px Verdana; padding: 10px 15px;}
