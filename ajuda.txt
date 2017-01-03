@@ -1,0 +1,47 @@
+iniciar o git em um diretorio
+* git init
+
+adicionar para espera
+* git add .
+
+aplicar um commit
+* git commit -m "Descricao do commit"
+
+para adicionar uma tag
+* git tag -a v1.0 -m "Descricao da tag de versao"
+
+para adicionar uma tag a um commit mais antigo
+* git tag -a v0.0 8373df4a8d1191bc452c60841cf5dcb2c59776dd -m "Vercao 0.0"
+
+para verificar os logos de forma simples
+* git log --pretty=oneline
+
+para obter localmente uma versao
+* git checkout v0.0
+
+para voltar na dependencia master
+* git checkout master
+
+
+============================ RAMIFICACOES ======================================
+criar um ambiente de teste (ramificacao)
+* git branch teste
+
+trocando de ambiente de teste
+* git checkout teste
+
+para trazer todas as modificacoes do teste para o master
+* git merge teste
+
+para deletar um ambiente. Exemplo de teste
+* git branch -d teste
+
+para listar todos os ambientes
+* git branch
+
+=========================== NO GITHUB ==========================================
+para clonar algum repositorio do github para o local
+* git clone git@github.com:edevaldo99/teste_git.git
+
+mandar para o repositorio
+* git push origin master
