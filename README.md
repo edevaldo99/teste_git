@@ -1,7 +1,6 @@
-# Para que serve isso?
+# O que é isso?
 
-Eu criei isso acompanhando um curso no YouTube no qual eu fui anotando os comandos
-para posteriormente consultar em caso de duvida. São os principais somente.
+Isso é apenas um "projeto" simples que tem como finalidade me auxiliar com os comandos do git.
 
 # Obrigado!
-Isso está muito basico ainda. Estou melhorando!
+Estou sempre aberto a pessoas que desejem melhorar ainda mais esse 'guia prático de git' :)
