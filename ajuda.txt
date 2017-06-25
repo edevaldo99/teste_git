@@ -7,6 +7,12 @@ adicionar para espera
 aplicar um commit
 * git commit -m "Descricao do commit"
 
+ver as versoes ou tags em interface grafica
+* gitk
+
+ver ver os rotulos ou versoes de forma básica
+* git log
+
 para adicionar uma tag
 * git tag -a v1.0 -m "Descricao da tag de versao"
 
