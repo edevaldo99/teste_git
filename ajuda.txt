@@ -7,6 +7,9 @@ adicionar para espera
 aplicar um commit
 * git commit -m "Descricao do commit"
 
+adicionar uma nova versao no projeto
+* git tag 1.0
+
 ver as versoes ou tags em interface grafica
 * gitk
 
